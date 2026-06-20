@@ -4,7 +4,7 @@
 
 | # | Responsable | Rol principal | Sección(es) a cargo |
 |---|-------------|---------------|---------------------|
-| 1 | [Nombre] | Arquitecto de investigación — Parte A | Sección 1 (parcial) |
+| 1 | Daniel S | Arquitecto de investigación — Parte A | Sección 1 (parcial) |
 | 2 | [Nombre] | Arquitecto de investigación — Parte B | Sección 1 (parcial) |
 | 3 | [Nombre] | Investigador de mercado laboral | Sección 2 (completa) |
 | 4 | [Nombre] | Analista prospectivo | Sección 3 (completa) |
